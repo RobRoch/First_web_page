@@ -86,12 +86,12 @@ nav {
 a {
     color: rgb(51, 51, 51);
 }
-#section {
+.section {
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
-#leftside {
+.leftside {
     vertical-align: middle;
     text-align:center;
     padding-bottom:10px;
